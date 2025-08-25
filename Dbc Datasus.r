@@ -514,7 +514,7 @@ ui <- fluidPage(
                                      ),
                                      column(2,
                                             div(style = "margin-top: 25px;",
-                                                downloadButton("download_pivot", icon("download"), "Exportar",
+                                                downloadButton("download_pivot", "Exportar",
                                                                class = "btn-info btn-block")
                                             )
                                      )
