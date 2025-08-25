@@ -49,6 +49,10 @@ install.packages(c(
 # Pacote read.dbc pode ser instalado via GitHub:
 if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes")
 remotes::install_github("danicat/read.dbc")
+
+#Você precisa instalar o Rtools para compilar o pacote read.dbc caso estja utilizando Windows:
+Baixe a versão compatível com seu R apartir do link: https://cran.r-project.org/bin/windows/Rtools/
+Instale e durante a instalação marque a opção “Add Rtools to PATH”.
 ```
 
 ---
