@@ -132,5 +132,5 @@ MIT
 
 ## Autor
 
-Desenvolvido por [Wendell Moura]  
+Desenvolvido por Wendell Moura  
 Colabore ou reporte issues via [GitHub Issues](https://github.com/wendellmoura/DBC-DATASUS-App-Shiny/issues).
